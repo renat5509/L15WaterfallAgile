@@ -4,7 +4,7 @@ body{
     font-size: 18px;
     margin: 50px 100px;
 }
-#item{
+#item,#cont,#subp{
 color: rgb(255, 115, 0);
 font-size: 20px;
 font-weight: 500;
